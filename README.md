@@ -9,7 +9,7 @@ ion upload repositories a lot, ive been making a point to though, I mainly do we
 im proficient in:  
 • lua  
 • python  
-• C++  
+• C & C++  
 
 i am learning:  
 • rust  
