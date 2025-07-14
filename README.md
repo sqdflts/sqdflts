@@ -12,12 +12,19 @@ im proficient in:
 • C++
 
 i am learning:
+
 • rust
+
 • ruby
+
 • typescript
+
 • x86 assembly
 
 id like to learn:
+
 • go
+
 • zig
+
 • arm64 assembly
