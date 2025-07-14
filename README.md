@@ -1,2 +1,2 @@
 ## hi gng
-![stats](https://github-readme-stats.vercel.app/api?username=sqdflts&show_icons=true&theme=transparent)
+[![used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdflts)](https://github.com/anuraghazra/github-readme-stats)
