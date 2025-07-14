@@ -13,18 +13,13 @@ im proficient in:
 
 i am learning:
 
-• rust
-
-• ruby
-
-• typescript
-
-• x86 assembly
+• rust  
+• ruby  
+• typescript  
+• x86 assembly  
 
 id like to learn:
 
-• go
-
-• zig
-
-• arm64 assembly
+• go  
+• zig  
+• arm64 assembly  
