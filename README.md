@@ -7,19 +7,17 @@ ion upload repositories a lot, ive been making a point to though, I mainly do we
 *Languages*
 -
 im proficient in:
-• lua
-• python
-• C++
+• lua  
+• python  
+• C++  
 
 i am learning:
-
 • rust  
 • ruby  
 • typescript  
 • x86 assembly  
 
 id like to learn:
-
 • go  
 • zig  
 • arm64 assembly  
