@@ -17,9 +17,4 @@ i am learning:
 • typescript  
 • x86 assembly  
 
-id like to learn:  
-• go  
-• zig  
-• arm64 assembly  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdflts&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqdflts&size_weight=0.5&count_weight=0.1)
